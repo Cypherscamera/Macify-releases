@@ -12,6 +12,20 @@
 
 Prefer no installer? Download the [portable ZIP](https://github.com/Cypherscamera/Macify-releases/releases/latest/download/Macify-win-Portable.zip). Every version is on the [releases page](https://github.com/Cypherscamera/Macify-releases/releases).
 
+## Screenshots
+
+### Mac-style shortcuts and a live keyboard on Windows
+![Macify keyboard page on Windows: a live on-screen keyboard where Alt acts as Command, the Windows key as Option and Ctrl as Control](https://raw.githubusercontent.com/Cypherscamera/Macify-releases/main/images/macify-mac-keyboard-shortcuts-windows.png)
+
+### Overview: your PC, with Mac muscle memory
+![Macify overview page showing Alt as Command, Windows key as Option and Ctrl as Control, with the dictation shortcut and update status](https://raw.githubusercontent.com/Cypherscamera/Macify-releases/main/images/macify-overview-windows.png)
+
+### Private voice dictation that types as you speak
+![Macify dictation page for Windows: press a shortcut, speak, and words are typed at the cursor, with a try-it box and shortcut settings](https://raw.githubusercontent.com/Cypherscamera/Macify-releases/main/images/macify-voice-dictation-windows.png)
+
+### File tools: convert HEIC, WebP, PNG and JPG images on your PC
+![Macify file tools converting three images to JPG, with format and quality options, all processed locally on the PC](https://raw.githubusercontent.com/Cypherscamera/Macify-releases/main/images/macify-file-tools-convert-images-windows.png)
+
 ## What Macify does
 
 | Feature | What you get on Windows |
