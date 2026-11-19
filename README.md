@@ -37,8 +37,8 @@ Prefer no installer? Download the [portable ZIP](https://github.com/Cypherscamer
 | **Window tiling** | Rectangle-style shortcuts for halves, quarters, thirds, fill, center and moving between displays. |
 | **Dock, menu bar and hot corners** | A Mac-style Dock and menu bar for Windows, plus screen-corner actions. |
 | **Control Center** | Wi-Fi, Bluetooth, sound, dark mode and more in one panel. |
-| **Dictation (⌃⌥M)** | Speak and your words are typed at the cursor as you say them, in any app. Press the shortcut to start and again to finish. It runs on your PC with no internet connection, so your voice stays private. |
-| **File tools** | Convert, compress and resize images (HEIC, WebP, AVIF, PNG, JPG and more), merge, split, rotate, protect and unlock PDFs, and turn Word, PowerPoint and Excel files into PDFs. All on your PC, and your originals are never changed. |
+| **Dictation (⌃⌥M)** | Speak and your words are typed at the cursor as you say them, in any app. Press the shortcut to start and again to finish, or hold a key while you talk. It runs on your PC with no internet connection, so your voice stays private. |
+| **File tools** | Convert, compress and resize images (HEIC, WebP, AVIF, PNG, JPG and more), merge, split, rotate, protect and unlock PDFs, and turn Word, PowerPoint and Excel files into PDFs. Save new files where you choose. All on your PC, and your originals are never changed. |
 | **Screenshots** | ⌘⇧3 and ⌘⇧4 take screenshots the Mac way, saved with a Mac-style name and a thumbnail if you choose a folder. |
 | **Trackpad** | Three-finger drag and ⌃-click for right-click. |
 | **Remap any key** | Turn any key into another key, a shortcut, an app, a link or text, and write your own shortcuts for every app or just one. |
@@ -50,7 +50,7 @@ Prefer no installer? Download the [portable ZIP](https://github.com/Cypherscamer
 |---|---|
 | **Operating system** | Windows 10 (version 2004 or newer) or Windows 11, 64-bit |
 | **Permissions** | No administrator rights needed. Installs for your user account only. |
-| **Dictation** | A working microphone. The built-in speech model is about 17 MB. Larger models are optional downloads inside the app. |
+| **Dictation** | A working microphone. The built-in speech model is about 17 MB. Larger models are optional downloads inside the app, with a size guide for your memory and processor. |
 | **License** | A Macify license key: [macify.finalcommit.dev](https://macify.finalcommit.dev/) |
 
 ## Install in three steps
@@ -71,7 +71,7 @@ Install Macify. The Alt key next to the spacebar becomes ⌘ Command, the Window
 Yes. Press ⌘Space (Alt+Space) in Macify to search apps and files, calculate and search the web.
 
 ### Does Macify have voice dictation, and is it private?
-Yes. Press ⌃⌥M, speak, and Macify types your words where the cursor is, in any app. It runs entirely on your PC, so your voice is never sent anywhere. You can also download a larger speech model in the app if you want more accuracy.
+Yes. Press ⌃⌥M, speak, and Macify types your words where the cursor is, in any app. It runs entirely on your PC, so your voice is never sent anywhere. You can press the shortcut to start and finish, or hold a key (Ctrl by default) while you talk. The pill has pause and finish buttons and sits wherever you like. A larger speech model is an optional download in the app, with a guide to which size suits your PC.
 
 ### Do I need administrator rights?
 No. Macify installs and runs for your user account only.
